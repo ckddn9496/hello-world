@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi!
+It is my first pratice message and first commit in Github.
