@@ -1,3 +1,1 @@
-# hello-world
-
-ckddn9496's Github study repository.
+이것은 ckddn9496's Github study repository
