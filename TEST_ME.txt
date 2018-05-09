@@ -1,1 +1,4 @@
-Github using SourceTree COMMIT TEST
+소스트리를 이용한 git사용.
+수정사항 취소하기.
+? : 수정사항을 취소하기를 할때 더 이전에 커밋했었던
+시점으로 rollback이 가능할까?
