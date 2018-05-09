@@ -1,4 +1,3 @@
 # hello-world
 
-Hi!
-It is my first pratice message and first commit in Github.
+ckddn9496's Github study repository.
